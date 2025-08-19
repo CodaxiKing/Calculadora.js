@@ -1,11 +1,31 @@
+Calculadora Simples
 
-Calculadora
-============
+- Este projeto é uma calculadora web funcional que realiza as quatro operações matemáticas básicas.
 
-Como executar o projeto:
+Funcionalidades
 
-1 - Baixe o projeto
-2 - Extraia do Zip
-3 - Abra o arquivo index.html
+Adição (+)
 
-Esta é uma calculadora simples que realiza adição, subtração, multiplicação e divisão. Você pode inserir o primeiro valor, selecionar o operador, inserir o segundo valor e clicar no botão “Calcular” para ver o resultado. O resultado será exibido abaixo do botão.
+Subtração (-)
+
+Multiplicação (×)
+
+Divisão (÷)
+
+Como Utilizar
+
+Insira o primeiro valor no campo correspondente.
+
+Selecione a operação matemática desejada.
+
+Insira o segundo valor.
+
+Clique em "Calcular" para exibir o resultado instantaneamente na tela.
+
+Como Executar o Projeto
+
+Faça o download dos arquivos do projeto.
+
+Extraia o conteúdo da pasta .zip.
+
+Abra o arquivo index.html em seu navegador de internet preferido (como Chrome, Firefox, etc.).
