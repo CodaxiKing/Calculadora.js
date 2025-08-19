@@ -2,6 +2,7 @@ Calculadora Simples
 
  Este projeto é uma calculadora web funcional que realiza as quatro operações matemáticas básicas.
 
+
 Funcionalidades
 
 Adição (+)
