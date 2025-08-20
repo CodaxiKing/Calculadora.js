@@ -1,32 +1,42 @@
-Calculadora Simples
+# Calculadora Simples
 
-- Este projeto é uma calculadora web funcional que realiza as quatro operações matemáticas básicas.
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+Uma calculadora funcional desenvolvida com as tecnologias essenciais do front-end. Este projeto de estudo visa aplicar conceitos de manipulação do DOM e lógica de programação com JavaScript.
 
 
-Funcionalidades
+---
 
-Adição (+)
+## ✨ Funcionalidades
 
-Subtração (-)
+Esta calculadora realiza as quatro operações matemáticas básicas:
 
-Multiplicação (×)
+-   **Adição (+)**
+-   **Subtração (-)**
+-   **Multiplicação (×)**
+-   **Divisão (÷)**
 
-Divisão (÷)
+O resultado é exibido instantaneamente na tela após o cálculo.
 
-Como Utilizar
+## 🚀 Tecnologias Utilizadas
 
-Insira o primeiro valor no campo correspondente.
+-   **HTML5:** Para a estrutura da calculadora.
+-   **CSS3:** Para o design e a aparência visual.
+-   **JavaScript:** Para toda a lógica de cálculo e interatividade.
 
-Selecione a operação matemática desejada.
+## 📦 Como Executar o Projeto
 
-Insira o segundo valor.
+Para rodar o projeto localmente, siga estes passos:
 
-Clique em "Calcular" para exibir o resultado instantaneamente na tela.
-
-Como Executar o Projeto
-
-Faça o download dos arquivos do projeto.
-
-Extraia o conteúdo da pasta .zip.
-
-Abra o arquivo index.html em seu navegador de internet preferido (como Chrome, Firefox, etc.).
+1.  **Clone o repositório:**
+    ```bash
+    git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
+    ```
+2.  **Navegue até a pasta do projeto:**
+    ```bash
+    cd nome-do-repositorio
+    ```
+3.  **Abra o arquivo `index.html` no seu navegador.**
+    * **Dica:** Para uma melhor experiência, utilize a extensão
